@@ -1,0 +1,19 @@
+{
+  "name": "w1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main_init.js",
+    "load": "node main_load.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsdoc": "^4.0.4",
+    "nodemon": "^3.1.10"
+  }
+}
